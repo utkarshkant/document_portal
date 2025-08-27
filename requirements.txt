@@ -7,5 +7,7 @@ langchain_google_genai==2.1.9
 pypdf==6.0.0
 faiss-cpu==1.12.0
 ipykernel
+structlog==25.4.0
+PyMuPDF==1.26.4
 
 -e .
