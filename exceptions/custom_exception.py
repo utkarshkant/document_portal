@@ -22,6 +22,7 @@ class DocumentPortalException(Exception):
         Traceback details: {self.traceback_str}
         """
 
+# Usage example
 if __name__ == "__main__":
     try:
         a = 1 / 0
